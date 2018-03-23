@@ -145,4 +145,4 @@ pass
 
 # 总结:
 娱乐贴~~ 给大家多一个无聊时的乐趣,xpath还是有很多语法需要学习,还有scrapy,有问题直接问,保证回答但是不许骂我,还有建议大家不要在繁忙时间随便爬,友好一点,凌晨两三点去偷偷的干
-github地址:https://github.com/CZXBigBrother/51JobSpider
+
